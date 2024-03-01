@@ -42,3 +42,5 @@
 
 # swp files from vim
 *.swp
+# vscode
+.vscode
